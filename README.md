@@ -1,5 +1,5 @@
 ## Project Title
-Bikeshare Project
+SQL Movie Rental Data Analysis
 
 ## Description
 This Sql Project is written for Project 1 of Udacity's Programming For Data Science Nanodegree and is used to answer questions using sql queries related to data about movie rental and description about its genres. 
